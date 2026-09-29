@@ -50,9 +50,9 @@ Welcome to the ultimate resource guide for **Data Clean Rooms (DCR)**, **Privacy
 
 > 🌟 **Open-Source Landscape**: Open-source solutions provide essential building blocks like **Trusted Execution Environments (TEEs)**, **Private Set Intersection (PSI)**, and **Differential Privacy (DP)** libraries to construct custom, audit-verifiable data clean rooms.
 
-### 📦 Top Open-Source Repositories (Sorted by Star Count)
+### 📦 Top Open-Source Repositories (Sorted by Stars_Count)
 
-| Project / Repository | Star Count | Primary Focus & Architecture | Description |
+| Project / Repository | Stars_Count | Primary Focus & Architecture | Description |
 | :--- | :--- | :--- | :--- |
 | **[OpenMined / PySyft](https://github.com/OpenMined/PySyft)** | [<img src="https://img.shields.io/github/stars/OpenMined/PySyft?style=social&color=white" alt="PySyft Stars"/>](https://github.com/OpenMined/PySyft/stargazers) | Differential Privacy & Federated Learning Framework | Python library for private, secure data science. Enables federated learning, differential privacy, and encrypted computation across remote data silos. |
 | **[Google / Fully Homomorphic Encryption](https://github.com/google/fully-homomorphic-encryption)** | [<img src="https://img.shields.io/github/google/fully-homomorphic-encryption?style=social&color=white" alt="Google FHE Stars"/>](https://github.com/google/fully-homomorphic-encryption/stargazers) | Homomorphic Encryption C++ / Rust Libraries | Google's open-source FHE libraries and compilers for performing arbitrary operations on encrypted data without decrypting it. |
